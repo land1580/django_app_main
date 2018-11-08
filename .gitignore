@@ -1,0 +1,7 @@
+djangoNov6Env/
+djangoPy3Env/
+firstProjEnv/
+flaskEnv/
+py3Env/
+*.pyc
+.vscode
